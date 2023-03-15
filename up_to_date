@@ -1,1 +1,3 @@
 git pull origin
+git push origin
+git fetch origin
